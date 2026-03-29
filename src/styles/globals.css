@@ -1,0 +1,13 @@
+html,
+body {
+  margin: 0;
+  height: 100%;
+}
+
+body {
+  overflow: hidden;
+}
+
+#__next {
+  height: 100%;
+}
